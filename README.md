@@ -1,4 +1,4 @@
-# SALES ANALYSIS SQL PROJECT
+# SALES PERFORMANCE ANALYSIS SQL PROJECT
 
 ## PROJECT DESCRIPTION
    This project involves quering a relational database containing sales-related data (e.g orders, customers,revenue and regions) to generate

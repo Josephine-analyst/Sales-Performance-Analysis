@@ -1,12 +1,20 @@
 # SALES PERFORMANCE ANALYSIS SQL PROJECT
 
 ## PROJECT DESCRIPTION
-   This project involves quering a relational database containing sales-related data (e.g orders, customers,revenue and regions) to generate
-   meaningful reports and metrics. The analysis will focus on key business questions such as Total Profit by Region, Top-Performing Products,
-   Average Profit across regions etc.
+   This project demonstrates advanced **SQL querying skills** by analyzing a relational sales database. The goal is to extract actionable business insights 
+   from tables containing orders, customers, products, stores, regions, and sales teams.
 
-### SOFTWARE USED
-    * SQL WORKBENCH
+### Key business questions answered include:
+    - What is the **total profit** and **quantity sold**?
+    - Which **regions**, **products**, **sales channels**, and **sales team members** drive the most profit/revenue?
+    - Who are the **top-performing customers**?
+    - How is profit distributed **geographically** and **by channel**?
+
+### TECHNOLOGY & TOOLS USED
+    - **Database**: MySQL
+    - **IDE**: MySQL Workbench
+    - **Data Format**: CSV imports
+
 
 ### STEPS FOLLOWED
     * Step 1: Open sql workbench

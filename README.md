@@ -58,10 +58,15 @@
 
          Query: select sum(PROFIT) as Total_Profit from `sales order`;
 
+<img width="1366" height="768" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/7b7e9aaf-83fd-45a3-8700-f42dc5837e9c" />
+  
+
 ### TOTAL QUANTITY SOLD
     Refers to the toatal number of units of a product sold over a specific period.
 
          Query:  select sum(Order_Quantity) as Total_Quantity_Sold from `sales order`;
+
+<img width="1366" height="768" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/d3240244-2b4f-4ded-b395-fa7d48e5ba8c" />
 
 ### TOTAL PROFIT BY REGION
     Refers to profit earned from sales in different geographic areas. This analysis helps businesses understand which region are most profitable,
